@@ -8,7 +8,5 @@ interface APIInterface {
     @GET("en/{word}")
     fun getInfo(@Path("word") word: String) : Call<List<MyDataClass>>
 
-//    @GET("en/{word}")
-//    fun getInfo(@Path("word") word: String) : Call<List<MyDataClass>>
-//
+
 }
