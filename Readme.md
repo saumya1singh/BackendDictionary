@@ -30,7 +30,7 @@ This project is a Retrofit API practice exercise focusing on working with API fu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/local-watch.git
+   git clone https://github.com/your-username/BackendDictionary.git
 
    ```
 
