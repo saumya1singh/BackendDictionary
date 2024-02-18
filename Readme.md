@@ -18,12 +18,12 @@ This project is a Retrofit API practice exercise focusing on working with API fu
 
 ## Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/TejPrakash18/BackendDictionary/blob/master/screens.png)
 
 ## Features
 
 - Display of Meaning of the word and verb and uses case etc.
-- Search the word and show how and where, use case.
+- Search the word and show how and where use case.
 
 ## Installation
 
@@ -38,7 +38,7 @@ This project is a Retrofit API practice exercise focusing on working with API fu
 
 ## Usage
 
-Simply open the `Project` file in your Android Studio, and the Run the application on your Local phone or emulator will start displaying the Meaning of the word.
+Simply open the `Project` file in your Android Studio, and Run the application on your Local phone or emulator will start displaying the Meaning of the word.
 
 ## Technologies Used
 
